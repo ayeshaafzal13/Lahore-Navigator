@@ -31,5 +31,4 @@ Lahore-Navigator/
 
 # Developed By
 Ayesha
-Computer Science Student
-Passionate about Software Development & AI
+(Computer Science Student)
