@@ -17,7 +17,7 @@
 * JavaScript
 * C++
 * VS Code / Dev-C++
-* 
+  
 ## How to Run
 
 ```bash
