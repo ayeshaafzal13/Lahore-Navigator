@@ -11,19 +11,16 @@
 - Uses graph data structure (adjacency list)
 - Implements route selection and location management
 
-## How to Run
-
-```bash
-g++ main.cpp -o navigator
-./navigator
-
 ## Technologies Used
 
 * HTML5
 * JavaScript
 * C++
 * VS Code / Dev-C++
+* 
+## How to Run
 
-## Developed By
-Ayesha
-(Computer Science Student)
+```bash
+g++ main.cpp -o navigator
+./navigator
+
