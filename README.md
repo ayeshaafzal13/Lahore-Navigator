@@ -1,34 +1,29 @@
-# Smart City Navigation System for Lahore
-Lahore Navigator is a location-based smart navigation and information system designed to help users explore important places in Lahore easily. The system integrates front-end web technologies with C++ backend logic for structured data handling.
+# 🗺️ Lahore City Navigator
 
-# Features
+**Location-based navigation system for Lahore using graphs and OOP.**
 
-* 📌 Display famous locations in Lahore
-* 🗺 Interactive navigation interface
-* 📂 Organized location data using JavaScript
-* 💻 Backend logic implemented in C++
-* 🎯 Beginner-friendly structured project
+![C++](https://img.shields.io/badge/C++-17-blue.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
-# Technologies Used
+## What It Does
+
+- Finds shortest routes between locations in Lahore
+- Uses graph data structure (adjacency list)
+- Implements route selection and location management
+
+## How to Run
+
+```bash
+g++ main.cpp -o navigator
+./navigator
+
+## Technologies Used
 
 * HTML5
 * JavaScript
 * C++
 * VS Code / Dev-C++
 
-# Project Structure
-
-Lahore-Navigator/
- │── index.html
- │── locations.js
- │── main.cpp
-
-# Future Improvements
-* Add real-time map integration
-* Connect with Google Maps API
-* Add search and filter functionality
-* Convert to full-stack web application
-
-# Developed By
+## Developed By
 Ayesha
 (Computer Science Student)
